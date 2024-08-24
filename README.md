@@ -1,2 +1,0 @@
-# responsividade
-responsividade
